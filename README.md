@@ -11,9 +11,15 @@
  - I'm graduated in Energy Engineering but programming is my passion <3
 
 
-<center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+    <center>
+        <table>
+            <tr>
+                <td>
+                    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardonioEng&hide=html&layout=compact&theme=dark" />
+                </td>
+            </tr>
+        </table>        
+    </center>
 
 <!--
 **MardonioEng/MardonioEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
