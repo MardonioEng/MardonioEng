@@ -1,6 +1,12 @@
 [![Visits Badge](https://badges.pufler.dev/visits/MardonioEng/MardonioEng)](https://badges.pufler.dev)
 
-### Hi there 👋
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devmarodrigues/)
+
+### Olá 👋
+
+### Eu sou Mardônio Rodrigues
+
+
 
 <!--
 **MardonioEng/MardonioEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
