@@ -1,12 +1,14 @@
 [![Visits Badge](https://badges.pufler.dev/visits/MardonioEng/MardonioEng)](https://badges.pufler.dev)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devmarodrigues/)
-
-### Olá 👋
-
-### Eu sou Mardônio Rodrigues
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devmarodrigues/) [<img src="https://img.shields.io/badge/telegram-%232ca5e0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/devmarodrigues)
 
 
+### Hi there 👋
+
+### I'm Mardônio Rodrigues
+
+ - I'm a Computer Science student at IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará) - campus Maracanaú
+ - I'm graduated in Energy Engineering but programming is my passion <3
 
 <!--
 **MardonioEng/MardonioEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
