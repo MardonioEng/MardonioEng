@@ -10,16 +10,8 @@
  - I'm a Computer Science student at IFCE (Instituto Federal de Educação, Ciência e Tecnologia do Ceará) - campus Maracanaú
  - I'm graduated in Energy Engineering but programming is my passion <3
 
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardonioEng&hide=html&layout=compact&theme=dark" />
 
-    <center>
-        <table>
-            <tr>
-                <td>
-                    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardonioEng&hide=html&layout=compact&theme=dark" />
-                </td>
-            </tr>
-        </table>        
-    </center>
 
 <!--
 **MardonioEng/MardonioEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
