@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/MardonioEng/MardonioEng)](https://badges.pufler.dev)
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/devmarodrigues/) [<img src="https://img.shields.io/badge/telegram-%232ca5e0.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/devmarodrigues)
 
 
